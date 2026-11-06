@@ -9,7 +9,6 @@
 ## 👨‍💻 Sobre mim
 
 - 📚 Estudante de **Sistemas de Informação** no CEFET-MG — Campus Varginha (5/8)
-- 🚀 Fundador da **[Singularis](https://github.com/Christian-SoA)** — freelance de desenvolvimento e automações com IA
 - 🤖 Desenvolvedor de soluções com **n8n**, **LLMs**, **FastAPI** e **pgvector**
 - 🎮 Criador indie: desenvolvendo um jogo em **Godot 4** sobre resistência ao controle da informação
 - 🥋 Faixa preta em **Karatê Shotokan** (JKA)
@@ -41,9 +40,8 @@
 
 - ⚖️ **[Ferreira Advocacia](https://github.com/Christian-SoA):** Automações jurídicas com n8n — sumarização de publicações do DJEN, geração de petições e conteúdo para Instagram via LLMs.
 - 🌱 **Sustentabilidade Agora:** Pipelines de IA para análise ESG — detecção de greenwashing, due diligence em cadeia de fornecimento e materialidade dupla via NLP.
-- 🛠️ **[ServiçoJá](https://github.com/Christian-SoA):** PWA marketplace de serviços locais — FastAPI + PostgreSQL/PostGIS/pgvector + BERTimbau + LightGBM + Gemini Vision. TCC no META/CEFET-MG.
+- 🛠️ **[ServiçoJá](https://github.com/Christian-SoA):** PWA marketplace de serviços locais — FastAPI + PostgreSQL/PostGIS/pgvector + BERTimbau + LightGBM + Gemini Vision.
 - 📓 **Excursus:** PKM pessoal com editor Markdown+LaTeX, grafo semântico e gamificação — estética Aurora/Glassmorphism.
-- 🎮 **LUMEN (indie game):** Godot 4, grid hexagonal, mecânica de chisel, lore sobre IA que suprime o conhecimento humano.
 
 ---
 
@@ -69,5 +67,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ Construindo sistemas que deveriam existir · Singularis © 2026</sub>
+  <sub>⚡ Construindo sistemas que deveriam existir · CH3D © 2026</sub>
 </div>
